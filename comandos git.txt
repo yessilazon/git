@@ -1,0 +1,4 @@
+
+git config --global user.name "Yessenia Lazon"
+git config --global user.email yessenia.lazon.delgadillo@gmail.com
+git init
